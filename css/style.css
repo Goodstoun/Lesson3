@@ -1,0 +1,37 @@
+.link{
+	color: aquamarine;
+}
+.game1{
+	color: blue;
+}
+.game2 * {
+	color: blueviolet;
+}
+.game3{
+	color: red;
+}
+.game4{
+	color: yellowgreen;
+}
+/* div{color: #c91010;} */
+
+/* a{color: #b07611;} */
+/* .top{
+	color: #1032dfb2;
+} */
+.list{
+	color: #ff0648;
+}
+#top{
+	color: #1616d3bc;
+}
+.skyrim,
+.horizon{
+	color: blue;
+}
+.tomb >p {
+	color: violet;
+}
+.game4 ~ p {
+	color: yellow;
+}
